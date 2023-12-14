@@ -1,4 +1,13 @@
 ### Hi there 👋
+## This is Vinit, welcome to my Github.
+- 🔭 I’m currently working on a secret project to solve the theory of everything.
+- 🌱 I’m currently getting a degree in Computer Science and Engineering, NIT Calicut
+- 👯 I’m looking to collaborate on web dev projects.
+- 🤔 I’m looking for help with getting an intership.
+- 💬 Ask me about ...
+- 📫 How to reach me: View my socials
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/keshri._.vinit/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-keshri-54316b251/) 
