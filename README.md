@@ -1,12 +1,11 @@
-### Hi there 👋
+### NITC
 ## This is Vinit, welcome to my Github.
 ## I am web developer who specialises in front end development and loves a good css challenge.
 ## I come from humble beginnings and have a deep curiosity to learn and a primal drive to create.
-- 🔭 I’m currently working learning web development, Machine Learning algorithms and Data Structtures and Algos.
-- 🌱 I’m currently getting a degree in Computer Science and Engineering, NIT Calicut
+- 🔭 I’m currently working on prjects, learning Web Development, Machine Learning algorithms and Data Structures and Algos.
+- 🌱 I’m currently getting a degree in Computer Science and Engineering, NIT Calicut.
 - 👯 I’m looking to collaborate on web dev projects.
 - 🤔 I’m looking for help with getting an intership.
-- 📫 How to reach me: View the Socials secrtion
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I never had to give my 12th Board exam.
 
