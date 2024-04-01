@@ -9,7 +9,8 @@
 
 ---  
 
-<!-- C C++ JS HTML CSS Python React NextJS Python Debian --><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg">
+<!-- C C++ JS HTML CSS Python React NextJS Python Debian -->
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg">
 
 ## To learn :
 
