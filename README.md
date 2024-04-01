@@ -1,40 +1,15 @@
-### NITC
-## This is Vinit, welcome to my Github.
-## Web developer | Front end developer | Loves a good css challenge.
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/keshri._.vinit/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-keshri-54316b251/) 
 
-## 💻 Tech Stack:
-
 ## Languages:
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
-
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
 
 ## Frameworks/Stack:
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">  
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg"> 
 
 ---  
 
-<!-- C C++ JS HTML CSS Python React NextJS Python Debian -->
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg">
-
+<!-- C C++ JS HTML CSS Python React NextJS Python Debian --><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg">
 
 ## To learn :
 
